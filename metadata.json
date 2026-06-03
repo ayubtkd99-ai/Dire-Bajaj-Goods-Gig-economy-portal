@@ -1,0 +1,6 @@
+{
+  "name": "Dire Bajaj & Goods Gig Portal",
+  "description": "የድሬዳዋ ከተማ የዲጂታል ጊግ ኢኮኖሚን በመጠቀም ለወጣቶች ስራ እድል ፈጠራ የንግድ ስራ ፕሮፖዛል እና የባጃጅና እቃ ማገናኝ አፕሊኬሽን ሲሙሌተር ። Multi-language Gig Portal and App Simulator for Dire Dawa, Ethiopia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
